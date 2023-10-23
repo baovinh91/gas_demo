@@ -16,6 +16,7 @@ function onOpen(e) {
       .addItem('Show sidebar', 'showSidebar')
       .addItem('Show dialog', 'showDialog')
       .addToUi();
+	 /*TEST COMMIT*/
 }
 
 /**
